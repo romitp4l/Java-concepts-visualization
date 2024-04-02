@@ -1,4 +1,4 @@
-public class RunningJavaFileWithoutCompilationFromVersionEleven {
+public class JB_03_RunningJavaFileWithoutCompilationFromVersionEleven {
 
     public static void main(String[] args) {
 

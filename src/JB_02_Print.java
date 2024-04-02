@@ -1,4 +1,4 @@
-public class Print {
+public class JB_02_Print {
 
    public static void main(String[] args) {
       System.out.print("this is simple print statement");
