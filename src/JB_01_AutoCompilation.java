@@ -10,21 +10,20 @@ public class JB_01_AutoCompilation
         MyClass myClass = new MyClass();
         myClass.printMessage();
 
+
+        SubPackageDemo objTEst = new SubPackageDemo();
+        objTEst.subpkgDemo();
+
+
+
     }
 
 
 
-//    SubPackageDemo objTEst = new SubPackageDemo();
-//
-//    public SubPackageDemo getObjTEst() {
-//        return objTEst;
-//    }
 
-    public DemoSubPackage2 getObj2() {
-        return obj2;
-    }
 
-    DemoSubPackage2 obj2 = new DemoSubPackage2();
+
+
 
 }
 
